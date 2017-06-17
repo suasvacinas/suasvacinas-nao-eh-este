@@ -78,12 +78,33 @@
     "winston": "~2.3.1"
   },
   "contributors": [
-    {"name": "Antônio C. Jr.", "email": "acdcjunior em gmail.com"},
-    {"name": "Alexandre Vinhadelli Papadópolis", "email": "alex em sbpi.com.br"},
-    {"name": "Anderson Jefferson Cerqueira", "email": "andersonjcdf em gmail.com"},
-    {"name": "Ademar Peixoto", "email": "bigua.kun em gmail.com"},
-    {"name": "Heloise Acco Tives Leão", "email": "heloise.acco em gmail.com"},
-    {"name": "Márcia Myuki Takenaka Fujimoto", "email": "marciamyuki em gmail.com"},
-    {"name": "Welder Luz", "email": "wweellddeerr em gmail.com"}
+    {
+      "name": "Antônio C. Jr.",
+      "email": "acdcjunior em gmail.com"
+    },
+    {
+      "name": "Alexandre Vinhadelli Papadópolis",
+      "email": "alex em sbpi.com.br"
+    },
+    {
+      "name": "Anderson Jefferson Cerqueira",
+      "email": "andersonjcdf em gmail.com"
+    },
+    {
+      "name": "Ademar Peixoto",
+      "email": "bigua.kun em gmail.com"
+    },
+    {
+      "name": "Heloise Acco Tives Leão",
+      "email": "heloise.acco em gmail.com"
+    },
+    {
+      "name": "Márcia Myuki Takenaka Fujimoto",
+      "email": "marciamyuki em gmail.com"
+    },
+    {
+      "name": "Welder Luz",
+      "email": "wweellddeerr em gmail.com"
+    }
   ]
 }
